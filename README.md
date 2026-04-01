@@ -117,5 +117,3 @@ Applied Data Science · La Cité College · Ottawa, Canada
 ## Author
 
 **Fares Sghaier** — Applied Data Science, La Cité College, Ottawa, Canada
-
-GitHub: [github.com/FareSghaier](https://github.com/FareSghaier)
