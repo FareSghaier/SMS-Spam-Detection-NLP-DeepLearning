@@ -105,12 +105,6 @@ jupyter notebook sms_preprocessing.ipynb
 jupyter notebook sms_spam_detection.ipynb
 ```
 
----
-
-## Course
-
-**IFM30513 — Intelligence Artificielle appliquée au prétraitement des données**
-Applied Data Science · La Cité College · Ottawa, Canada
 
 ---
 
